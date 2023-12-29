@@ -2,6 +2,8 @@
 title: "Matthew Ki"
 ---
 
-# Graduate Teaching Associate at Bowling Green State University
+## Graduate Teaching Associate at Bowling Green State University
 
-![](images/Capture1.PNG){width="350"}
+**Bio:** I am a second year masters student at Bowling Green State University studying statistics where I am also a graduate teaching associate teaching two intro to statistics courses. I am working on a thesis titled, S*tatistical Analysis of Country Data* and a paper titled, *Predicting Minimum Wage with Random Forests and Neural Networks.* My interests include: machine learning and statistical theory.
+
+![](images/Capture1.PNG)
